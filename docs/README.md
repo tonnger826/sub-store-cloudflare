@@ -1,4 +1,4 @@
-# 文档索引
+# 文档索引：
 
 - [quick-start.md](quick-start.md)：普通用户从 Deploy Button 到第一个客户端订阅链接的五分钟路径。
 - [architecture.md](architecture.md)：Worker + D1 的简化架构、数据模型和输出链路。
